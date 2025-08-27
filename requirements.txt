@@ -1,0 +1,6 @@
+mcp
+azure-identity
+openai
+pytest
+pytest-asyncio
+python-dotenv
